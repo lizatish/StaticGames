@@ -1,0 +1,1 @@
+pyuic5 static.ui -o design.py
